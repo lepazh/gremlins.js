@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-    - node # Current stable
+    - node # Current stabl
     - lts/* # Most recent LTS version
 
 install:
